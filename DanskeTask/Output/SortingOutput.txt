@@ -1,0 +1,4 @@
+1,3,9,15,20,30,40
+Above numbers were sorted using BubbleSort algorithm and it took: 0,0007 miliseconds
+1,3,9,15,20,30,40
+Above numbers were sorted using InsertionSort algorithm and it took: 0,0041 miliseconds

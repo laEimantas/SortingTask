@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DanskeTask", "DanskeTask\DanskeTask.csproj", "{DC9ED358-3CF6-4DDA-AF85-1A52F71808EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanskeTaskTests", "DanskeTaskTests\DanskeTaskTests.csproj", "{37FE0CC7-DC81-4CFF-82D7-B472C16EC958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9ED358-3CF6-4DDA-AF85-1A52F71808EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9ED358-3CF6-4DDA-AF85-1A52F71808EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9ED358-3CF6-4DDA-AF85-1A52F71808EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9ED358-3CF6-4DDA-AF85-1A52F71808EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FE0CC7-DC81-4CFF-82D7-B472C16EC958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FE0CC7-DC81-4CFF-82D7-B472C16EC958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FE0CC7-DC81-4CFF-82D7-B472C16EC958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FE0CC7-DC81-4CFF-82D7-B472C16EC958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCAAA89-2A3F-421C-9B61-D89AFAF42167}
+	EndGlobalSection
+EndGlobal
